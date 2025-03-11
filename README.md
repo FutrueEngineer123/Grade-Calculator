@@ -12,7 +12,7 @@ Note: A simple input statement paired with a variable i would suffice for this i
 
 
 # Compiling 
-Seeing as the majority of the code was done on the Zeus virtual machine alternative such as GDB online could be helpful
+Seeing as the majority of the code was done on the Zeus virtual machine, alternatives such as GDB online could be helpful
 Simply running the code in the terminal would suffice
 
 
